@@ -1,0 +1,39 @@
+{
+    "name": "Heavy Switch Branching Room",
+    "group": "Heavy Switch",
+    "grid": [
+        "000000000000",
+        "011111110000",
+        "011111110000",
+        "011111X1B1G0",
+        "011111110000",
+        "0S1111110000",
+        "011111110000",
+        "011111110000",
+        "000000000000"
+    ],
+    "bridges": {
+        "b1": {
+            "cells": [
+                [
+                    3,
+                    8
+                ]
+            ],
+            "initial_open": false
+        }
+    },
+    "switches": [
+        {
+            "position": [
+                3,
+                6
+            ],
+            "type": "heavy",
+            "behavior": "open",
+            "bridges": [
+                "b1"
+            ]
+        }
+    ]
+}

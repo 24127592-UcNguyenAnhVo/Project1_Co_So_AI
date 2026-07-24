@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="35" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Solution Length Comparison</text>
+<line x1="110" y1="550.00" x2="1160" y2="550.00" stroke="#dddddd" stroke-width="1"/>
+<text x="100" y="555.00" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="110" y1="456.00" x2="1160" y2="456.00" stroke="#dddddd" stroke-width="1"/>
+<text x="100" y="461.00" text-anchor="end" font-family="Arial" font-size="12">21.6</text>
+<line x1="110" y1="362.00" x2="1160" y2="362.00" stroke="#dddddd" stroke-width="1"/>
+<text x="100" y="367.00" text-anchor="end" font-family="Arial" font-size="12">43.2</text>
+<line x1="110" y1="268.00" x2="1160" y2="268.00" stroke="#dddddd" stroke-width="1"/>
+<text x="100" y="273.00" text-anchor="end" font-family="Arial" font-size="12">64.8</text>
+<line x1="110" y1="174.00" x2="1160" y2="174.00" stroke="#dddddd" stroke-width="1"/>
+<text x="100" y="179.00" text-anchor="end" font-family="Arial" font-size="12">86.4</text>
+<line x1="110" y1="80.00" x2="1160" y2="80.00" stroke="#dddddd" stroke-width="1"/>
+<text x="100" y="85.00" text-anchor="end" font-family="Arial" font-size="12">108</text>
+<line x1="110" y1="80" x2="110" y2="550" stroke="black" stroke-width="2"/>
+<line x1="110" y1="550" x2="1160" y2="550" stroke="black" stroke-width="2"/>
+<rect x="121.55" y="523.89" width="18.48" height="26.11" fill="#4C78A8"/>
+<rect x="142.03" y="336.76" width="18.48" height="213.24" fill="#F58518"/>
+<rect x="162.50" y="523.89" width="18.48" height="26.11" fill="#54A24B"/>
+<rect x="182.97" y="523.89" width="18.48" height="26.11" fill="#E45756"/>
+<text x="162.50" y="574.00" text-anchor="end" transform="rotate(-35 162.50 574.00)" font-family="Arial" font-size="12">level_01.json</text>
+<rect x="226.55" y="515.19" width="18.48" height="34.81" fill="#4C78A8"/>
+<rect x="247.03" y="145.28" width="18.48" height="404.72" fill="#F58518"/>
+<rect x="267.50" y="515.19" width="18.48" height="34.81" fill="#54A24B"/>
+<rect x="287.98" y="515.19" width="18.48" height="34.81" fill="#E45756"/>
+<text x="267.50" y="574.00" text-anchor="end" transform="rotate(-35 267.50 574.00)" font-family="Arial" font-size="12">level_02.json</text>
+<rect x="331.55" y="523.89" width="18.48" height="26.11" fill="#4C78A8"/>
+<rect x="352.03" y="375.93" width="18.48" height="174.07" fill="#F58518"/>
+<rect x="372.50" y="523.89" width="18.48" height="26.11" fill="#54A24B"/>
+<rect x="392.98" y="523.89" width="18.48" height="26.11" fill="#E45756"/>
+<text x="372.50" y="574.00" text-anchor="end" transform="rotate(-35 372.50 574.00)" font-family="Arial" font-size="12">level_03.json</text>
+<rect x="436.55" y="497.78" width="18.48" height="52.22" fill="#4C78A8"/>
+<rect x="457.03" y="175.74" width="18.48" height="374.26" fill="#F58518"/>
+<rect x="477.50" y="497.78" width="18.48" height="52.22" fill="#54A24B"/>
+<rect x="497.98" y="497.78" width="18.48" height="52.22" fill="#E45756"/>
+<text x="477.50" y="574.00" text-anchor="end" transform="rotate(-35 477.50 574.00)" font-family="Arial" font-size="12">level_04.json</text>
+<rect x="541.55" y="489.07" width="18.48" height="60.93" fill="#4C78A8"/>
+<rect x="562.02" y="127.87" width="18.48" height="422.13" fill="#F58518"/>
+<rect x="582.50" y="489.07" width="18.48" height="60.93" fill="#54A24B"/>
+<rect x="602.97" y="489.07" width="18.48" height="60.93" fill="#E45756"/>
+<text x="582.50" y="574.00" text-anchor="end" transform="rotate(-35 582.50 574.00)" font-family="Arial" font-size="12">level_05.json</text>
+<rect x="646.55" y="519.54" width="18.48" height="30.46" fill="#4C78A8"/>
+<rect x="667.02" y="484.72" width="18.48" height="65.28" fill="#F58518"/>
+<rect x="687.50" y="519.54" width="18.48" height="30.46" fill="#54A24B"/>
+<rect x="707.97" y="519.54" width="18.48" height="30.46" fill="#E45756"/>
+<text x="687.50" y="574.00" text-anchor="end" transform="rotate(-35 687.50 574.00)" font-family="Arial" font-size="12">level_06.json</text>
+<rect x="751.55" y="506.48" width="18.48" height="43.52" fill="#4C78A8"/>
+<rect x="772.02" y="80.00" width="18.48" height="470.00" fill="#F58518"/>
+<rect x="792.50" y="506.48" width="18.48" height="43.52" fill="#54A24B"/>
+<rect x="812.97" y="506.48" width="18.48" height="43.52" fill="#E45756"/>
+<text x="792.50" y="574.00" text-anchor="end" transform="rotate(-35 792.50 574.00)" font-family="Arial" font-size="12">level_07.json</text>
+<rect x="856.55" y="519.54" width="18.48" height="30.46" fill="#4C78A8"/>
+<rect x="877.02" y="484.72" width="18.48" height="65.28" fill="#F58518"/>
+<rect x="897.50" y="519.54" width="18.48" height="30.46" fill="#54A24B"/>
+<rect x="917.97" y="519.54" width="18.48" height="30.46" fill="#E45756"/>
+<text x="897.50" y="574.00" text-anchor="end" transform="rotate(-35 897.50 574.00)" font-family="Arial" font-size="12">level_08.json</text>
+<rect x="961.55" y="506.48" width="18.48" height="43.52" fill="#4C78A8"/>
+<rect x="982.02" y="358.52" width="18.48" height="191.48" fill="#F58518"/>
+<rect x="1002.50" y="506.48" width="18.48" height="43.52" fill="#54A24B"/>
+<rect x="1022.97" y="506.48" width="18.48" height="43.52" fill="#E45756"/>
+<text x="1002.50" y="574.00" text-anchor="end" transform="rotate(-35 1002.50 574.00)" font-family="Arial" font-size="12">level_09.json</text>
+<rect x="1066.55" y="506.48" width="18.48" height="43.52" fill="#4C78A8"/>
+<rect x="1087.02" y="280.19" width="18.48" height="269.81" fill="#F58518"/>
+<rect x="1107.50" y="506.48" width="18.48" height="43.52" fill="#54A24B"/>
+<rect x="1127.97" y="506.48" width="18.48" height="43.52" fill="#E45756"/>
+<text x="1107.50" y="574.00" text-anchor="end" transform="rotate(-35 1107.50 574.00)" font-family="Arial" font-size="12">level_10.json</text>
+<text x="28" y="315.00" text-anchor="middle" transform="rotate(-90 28 315.00)" font-family="Arial" font-size="15">Mean Solution Length</text>
+<rect x="360.00" y="651" width="18" height="18" fill="#4C78A8"/>
+<text x="386.00" y="665" font-family="Arial" font-size="14">BFS</text>
+<rect x="480.00" y="651" width="18" height="18" fill="#F58518"/>
+<text x="506.00" y="665" font-family="Arial" font-size="14">DFS</text>
+<rect x="600.00" y="651" width="18" height="18" fill="#54A24B"/>
+<text x="626.00" y="665" font-family="Arial" font-size="14">UCS</text>
+<rect x="720.00" y="651" width="18" height="18" fill="#E45756"/>
+<text x="746.00" y="665" font-family="Arial" font-size="14">A*</text>
+</svg>

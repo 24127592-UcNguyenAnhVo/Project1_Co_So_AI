@@ -1,0 +1,39 @@
+{
+    "name": "Soft Switch Branching Room",
+    "group": "Soft Switch",
+    "grid": [
+        "000000000000",
+        "011111110000",
+        "011111110000",
+        "01111111B1G0",
+        "011111110000",
+        "0S111O110000",
+        "011111110000",
+        "011111110000",
+        "000000000000"
+    ],
+    "bridges": {
+        "b1": {
+            "cells": [
+                [
+                    3,
+                    8
+                ]
+            ],
+            "initial_open": false
+        }
+    },
+    "switches": [
+        {
+            "position": [
+                5,
+                5
+            ],
+            "type": "soft",
+            "behavior": "open",
+            "bridges": [
+                "b1"
+            ]
+        }
+    ]
+}

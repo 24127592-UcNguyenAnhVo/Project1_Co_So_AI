@@ -1,0 +1,52 @@
+{
+    "name": "Split Fragile Soft Bridge",
+    "group": "Combined Split",
+    "grid": [
+        "0000000",
+        "0000OF1",
+        "S11T1BG",
+        "0000111",
+        "0000000"
+    ],
+    "bridges": {
+        "b1": {
+            "cells": [
+                [
+                    2,
+                    5
+                ]
+            ],
+            "initial_open": false
+        }
+    },
+    "switches": [
+        {
+            "position": [
+                2,
+                3
+            ],
+            "type": "split",
+            "targets": [
+                [
+                    1,
+                    4
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        },
+        {
+            "position": [
+                1,
+                4
+            ],
+            "type": "soft",
+            "behavior": "open",
+            "bridges": [
+                "b1"
+            ]
+        }
+    ]
+}

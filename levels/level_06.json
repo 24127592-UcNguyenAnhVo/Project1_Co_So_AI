@@ -1,0 +1,30 @@
+{
+    "name": "Split Switch",
+    "group": "Split",
+    "grid": [
+        "0000000",
+        "0000111",
+        "S11T11G",
+        "0000111",
+        "0000000"
+    ],
+    "switches": [
+        {
+            "position": [
+                2,
+                3
+            ],
+            "type": "split",
+            "targets": [
+                [
+                    1,
+                    4
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+level_file,level_name,algorithm,run,found,time_sec,peak_memory_bytes,expanded_nodes,solution_length,total_cost
+level_01.json,Basic Open Arena,BFS,1,True,0.006216210000275169,66496,109,6,6.0
+level_01.json,Basic Open Arena,BFS,2,True,0.0060546200002136175,65144,109,6,6.0
+level_01.json,Basic Open Arena,BFS,3,True,0.006051184999705583,65144,109,6,6.0
+level_01.json,Basic Open Arena,BFS,4,True,0.006105235000177345,65144,109,6,6.0
+level_01.json,Basic Open Arena,BFS,5,True,0.006071163999877172,65144,109,6,6.0
+level_01.json,Basic Open Arena,DFS,1,True,0.0040783180002108566,55088,71,49,49.0
+level_01.json,Basic Open Arena,DFS,2,True,0.004036876999634842,55088,71,49,49.0
+level_01.json,Basic Open Arena,DFS,3,True,0.004051578999678895,55088,71,49,49.0
+level_01.json,Basic Open Arena,DFS,4,True,0.004051179000271077,55088,71,49,49.0
+level_01.json,Basic Open Arena,DFS,5,True,0.004023348000373517,55088,71,49,49.0
+level_01.json,Basic Open Arena,UCS,1,True,0.008164148000105342,74408,109,6,6.0
+level_01.json,Basic Open Arena,UCS,2,True,0.008028618000025745,74408,109,6,6.0
+level_01.json,Basic Open Arena,UCS,3,True,0.008343655000317085,74408,109,6,6.0
+level_01.json,Basic Open Arena,UCS,4,True,0.01146896999944147,74408,109,6,6.0
+level_01.json,Basic Open Arena,UCS,5,True,0.007867338000323798,74408,109,6,6.0
+level_01.json,Basic Open Arena,A*,1,True,0.003003675000400108,40208,32,6,6.0
+level_01.json,Basic Open Arena,A*,2,True,0.0029390090003289515,40208,32,6,6.0
+level_01.json,Basic Open Arena,A*,3,True,0.0028890550001960946,40208,32,6,6.0
+level_01.json,Basic Open Arena,A*,4,True,0.0029180169995015603,40208,32,6,6.0
+level_01.json,Basic Open Arena,A*,5,True,0.002903085999605537,40208,32,6,6.0
+level_02.json,Soft Switch Branching Room,BFS,1,True,0.016281108000839595,141168,243,8,8.2
+level_02.json,Soft Switch Branching Room,BFS,2,True,0.01582066399987525,140872,243,8,8.2
+level_02.json,Soft Switch Branching Room,BFS,3,True,0.01593488399976195,140872,243,8,8.2
+level_02.json,Soft Switch Branching Room,BFS,4,True,0.01576332900003763,140872,243,8,8.2
+level_02.json,Soft Switch Branching Room,BFS,5,True,0.015837989999454294,140872,243,8,8.2
+level_02.json,Soft Switch Branching Room,DFS,1,True,0.007514785999774176,100432,112,93,93.60000000000001
+level_02.json,Soft Switch Branching Room,DFS,2,True,0.0073955890002253,100432,112,93,93.60000000000001
+level_02.json,Soft Switch Branching Room,DFS,3,True,0.007343231000049855,100432,112,93,93.60000000000001
+level_02.json,Soft Switch Branching Room,DFS,4,True,0.007549117000053229,100432,112,93,93.60000000000001
+level_02.json,Soft Switch Branching Room,DFS,5,True,0.0074681960004454595,100432,112,93,93.60000000000001
+level_02.json,Soft Switch Branching Room,UCS,1,True,0.02128090299993346,160056,243,8,8.2
+level_02.json,Soft Switch Branching Room,UCS,2,True,0.02480450899929565,160056,243,8,8.2
+level_02.json,Soft Switch Branching Room,UCS,3,True,0.021147113999177236,160056,243,8,8.2
+level_02.json,Soft Switch Branching Room,UCS,4,True,0.022360994999871764,160056,243,8,8.2
+level_02.json,Soft Switch Branching Room,UCS,5,True,0.020969791000425175,160056,243,8,8.2
+level_02.json,Soft Switch Branching Room,A*,1,True,0.007058809000227484,86464,67,8,8.2
+level_02.json,Soft Switch Branching Room,A*,2,True,0.006994835000114108,86464,67,8,8.2
+level_02.json,Soft Switch Branching Room,A*,3,True,0.0069201839996821946,86464,67,8,8.2
+level_02.json,Soft Switch Branching Room,A*,4,True,0.0070569270001215045,86464,67,8,8.2
+level_02.json,Soft Switch Branching Room,A*,5,True,0.007048544000099355,86464,67,8,8.2
+level_03.json,Fragile Weighted Routes,BFS,1,True,0.005904728000132309,63184,106,6,7.0
+level_03.json,Fragile Weighted Routes,BFS,2,True,0.00593798699992476,63480,106,6,7.0
+level_03.json,Fragile Weighted Routes,BFS,3,True,0.005920341000091867,63480,106,6,7.0
+level_03.json,Fragile Weighted Routes,BFS,4,True,0.0065910100001929095,63480,106,6,7.0
+level_03.json,Fragile Weighted Routes,BFS,5,True,0.005929304000346747,63480,106,6,7.0
+level_03.json,Fragile Weighted Routes,DFS,1,True,0.0026310520006518345,42680,45,40,44.0
+level_03.json,Fragile Weighted Routes,DFS,2,True,0.0026328450003347825,42680,45,40,44.0
+level_03.json,Fragile Weighted Routes,DFS,3,True,0.002838559999872814,42680,45,40,44.0
+level_03.json,Fragile Weighted Routes,DFS,4,True,0.0026399260004836833,42680,45,40,44.0
+level_03.json,Fragile Weighted Routes,DFS,5,True,0.002627407000545645,42680,45,40,44.0
+level_03.json,Fragile Weighted Routes,UCS,1,True,0.008044971999879635,73464,106,6,6.0
+level_03.json,Fragile Weighted Routes,UCS,2,True,0.0076597209999818006,73464,106,6,6.0
+level_03.json,Fragile Weighted Routes,UCS,3,True,0.007584017999761272,73464,106,6,6.0
+level_03.json,Fragile Weighted Routes,UCS,4,True,0.007789883999976155,73464,106,6,6.0
+level_03.json,Fragile Weighted Routes,UCS,5,True,0.008098811999843747,73464,106,6,6.0
+level_03.json,Fragile Weighted Routes,A*,1,True,0.002482431000316865,37472,26,6,6.0
+level_03.json,Fragile Weighted Routes,A*,2,True,0.0024926669993874384,37472,26,6,6.0
+level_03.json,Fragile Weighted Routes,A*,3,True,0.002470854999955918,37472,26,6,6.0
+level_03.json,Fragile Weighted Routes,A*,4,True,0.0024946899993665284,37472,26,6,6.0
+level_03.json,Fragile Weighted Routes,A*,5,True,0.0024966629998743883,37472,26,6,6.0
+level_04.json,Heavy Switch Branching Room,BFS,1,True,0.012464896999517805,129720,196,12,12.2
+level_04.json,Heavy Switch Branching Room,BFS,2,True,0.011945586999900115,129424,196,12,12.2
+level_04.json,Heavy Switch Branching Room,BFS,3,True,0.01382759799980704,129424,196,12,12.2
+level_04.json,Heavy Switch Branching Room,BFS,4,True,0.011972207000326307,129424,196,12,12.2
+level_04.json,Heavy Switch Branching Room,BFS,5,True,0.012083321000318392,129424,196,12,12.2
+level_04.json,Heavy Switch Branching Room,DFS,1,True,0.008711731000403233,117960,140,86,86.2
+level_04.json,Heavy Switch Branching Room,DFS,2,True,0.008644099999401078,117960,140,86,86.2
+level_04.json,Heavy Switch Branching Room,DFS,3,True,0.008935743000620278,117960,140,86,86.2
+level_04.json,Heavy Switch Branching Room,DFS,4,True,0.008769036000558117,117960,140,86,86.2
+level_04.json,Heavy Switch Branching Room,DFS,5,True,0.008670148999954108,117960,140,86,86.2
+level_04.json,Heavy Switch Branching Room,UCS,1,True,0.015643390999684925,146648,196,12,12.2
+level_04.json,Heavy Switch Branching Room,UCS,2,True,0.015493679999963206,146648,196,12,12.2
+level_04.json,Heavy Switch Branching Room,UCS,3,True,0.016613259999758156,146648,196,12,12.2
+level_04.json,Heavy Switch Branching Room,UCS,4,True,0.015405899000143108,146648,196,12,12.2
+level_04.json,Heavy Switch Branching Room,UCS,5,True,0.015387551999992866,146648,196,12,12.2
+level_04.json,Heavy Switch Branching Room,A*,1,True,0.012323466999987431,98720,145,12,12.2
+level_04.json,Heavy Switch Branching Room,A*,2,True,0.012469633999899088,98720,145,12,12.2
+level_04.json,Heavy Switch Branching Room,A*,3,True,0.013837854000485095,98720,145,12,12.2
+level_04.json,Heavy Switch Branching Room,A*,4,True,0.012844690999372688,98720,145,12,12.2
+level_04.json,Heavy Switch Branching Room,A*,5,True,0.012371808999887435,98720,145,12,12.2
+level_05.json,Two Switches Two Bridges,BFS,1,True,0.02849062600034813,245432,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,BFS,2,True,0.0282668529998773,245136,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,BFS,3,True,0.028630673000407114,245136,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,BFS,4,True,0.028505037000286393,245136,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,BFS,5,True,0.028494901999692956,245136,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,DFS,1,True,0.024179952999475063,242152,330,97,97.4
+level_05.json,Two Switches Two Bridges,DFS,2,True,0.023785767000845226,242152,330,97,97.4
+level_05.json,Two Switches Two Bridges,DFS,3,True,0.02397985600055108,242152,330,97,97.4
+level_05.json,Two Switches Two Bridges,DFS,4,True,0.025349657999868214,242152,330,97,97.4
+level_05.json,Two Switches Two Bridges,DFS,5,True,0.02742134999971313,242152,330,97,97.4
+level_05.json,Two Switches Two Bridges,UCS,1,True,0.038566077999348636,276504,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,UCS,2,True,0.038716291999662644,276504,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,UCS,3,True,0.039228992000062135,276504,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,UCS,4,True,0.03894149600000674,276504,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,UCS,5,True,0.03841750899937324,276504,399,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,A*,1,True,0.02580454200051463,207256,240,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,A*,2,True,0.026235250999889104,207256,240,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,A*,3,True,0.025747396999577177,207256,240,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,A*,4,True,0.02607736699974339,207256,240,14,14.399999999999999
+level_05.json,Two Switches Two Bridges,A*,5,True,0.02606407700022828,207256,240,14,14.399999999999999
+level_06.json,Split Switch,BFS,1,True,0.0029129399999874295,37040,48,7,8.0
+level_06.json,Split Switch,BFS,2,True,0.0029963339993628324,37344,48,7,8.0
+level_06.json,Split Switch,BFS,3,True,0.002870377999897755,37344,48,7,8.0
+level_06.json,Split Switch,BFS,4,True,0.002856807000171102,37344,48,7,8.0
+level_06.json,Split Switch,BFS,5,True,0.0028896459998577484,37344,48,7,8.0
+level_06.json,Split Switch,DFS,1,True,0.001027665000037814,16904,19,15,16.0
+level_06.json,Split Switch,DFS,2,True,0.0011634150005193078,16904,19,15,16.0
+level_06.json,Split Switch,DFS,3,True,0.0010736220001490437,16904,19,15,16.0
+level_06.json,Split Switch,DFS,4,True,0.0009931730000971584,16904,19,15,16.0
+level_06.json,Split Switch,DFS,5,True,0.0010881939997489098,16904,19,15,16.0
+level_06.json,Split Switch,UCS,1,True,0.004712189000201761,49632,58,7,7.5
+level_06.json,Split Switch,UCS,2,True,0.004401568000503175,49632,58,7,7.5
+level_06.json,Split Switch,UCS,3,True,0.004357834000074945,49632,58,7,7.5
+level_06.json,Split Switch,UCS,4,True,0.004664598000090336,49632,58,7,7.5
+level_06.json,Split Switch,UCS,5,True,0.004371383999568934,49632,58,7,7.5
+level_06.json,Split Switch,A*,1,True,0.004532793000180391,50528,58,7,7.5
+level_06.json,Split Switch,A*,2,True,0.004601233999892429,50528,58,7,7.5
+level_06.json,Split Switch,A*,3,True,0.00455397499990795,50528,58,7,7.5
+level_06.json,Split Switch,A*,4,True,0.004718268000033277,50528,58,7,7.5
+level_06.json,Split Switch,A*,5,True,0.004647794000447902,50528,58,7,7.5
+level_07.json,Fragile Soft Bridge Alternatives,BFS,1,True,0.01587134000055812,136216,251,10,11.2
+level_07.json,Fragile Soft Bridge Alternatives,BFS,2,True,0.015624282999851857,136208,251,10,11.2
+level_07.json,Fragile Soft Bridge Alternatives,BFS,3,True,0.015742488999421766,136208,251,10,11.2
+level_07.json,Fragile Soft Bridge Alternatives,BFS,4,True,0.01585722900017572,136208,251,10,11.2
+level_07.json,Fragile Soft Bridge Alternatives,BFS,5,True,0.015742307999971672,136208,251,10,11.2
+level_07.json,Fragile Soft Bridge Alternatives,DFS,1,True,0.008372076999876299,112888,128,108,116.9
+level_07.json,Fragile Soft Bridge Alternatives,DFS,2,True,0.008590591000029235,112888,128,108,116.9
+level_07.json,Fragile Soft Bridge Alternatives,DFS,3,True,0.008462861999760207,112888,128,108,116.9
+level_07.json,Fragile Soft Bridge Alternatives,DFS,4,True,0.008573936000175308,112888,128,108,116.9
+level_07.json,Fragile Soft Bridge Alternatives,DFS,5,True,0.008461820999400516,112888,128,108,116.9
+level_07.json,Fragile Soft Bridge Alternatives,UCS,1,True,0.02224310899964621,153128,242,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,UCS,2,True,0.020337102999292256,153128,242,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,UCS,3,True,0.02048618400021951,153128,242,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,UCS,4,True,0.020337513999947987,153128,242,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,UCS,5,True,0.020260229000086838,153128,242,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,A*,1,True,0.010468215999935637,108232,105,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,A*,2,True,0.01032771700010926,108232,105,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,A*,3,True,0.010830092000105651,108232,105,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,A*,4,True,0.010659460000169929,108232,105,10,10.7
+level_07.json,Fragile Soft Bridge Alternatives,A*,5,True,0.010703314999773283,108232,105,10,10.7
+level_08.json,Split Fragile Soft Bridge,BFS,1,True,0.0032542970002396032,40600,47,7,8.7
+level_08.json,Split Fragile Soft Bridge,BFS,2,True,0.003170351999870036,40312,47,7,8.7
+level_08.json,Split Fragile Soft Bridge,BFS,3,True,0.0032162800007426995,40312,47,7,8.7
+level_08.json,Split Fragile Soft Bridge,BFS,4,True,0.0032770400002846145,40312,47,7,8.7
+level_08.json,Split Fragile Soft Bridge,BFS,5,True,0.0033038800002032076,40312,47,7,8.7
+level_08.json,Split Fragile Soft Bridge,DFS,1,True,0.001163406000159739,17880,19,15,17.6
+level_08.json,Split Fragile Soft Bridge,DFS,2,True,0.0011679819999699248,17880,19,15,17.6
+level_08.json,Split Fragile Soft Bridge,DFS,3,True,0.0012242559996593627,17880,19,15,17.6
+level_08.json,Split Fragile Soft Bridge,DFS,4,True,0.0011833749995275866,17880,19,15,17.6
+level_08.json,Split Fragile Soft Bridge,DFS,5,True,0.0014799649998167297,17880,19,15,17.6
+level_08.json,Split Fragile Soft Bridge,UCS,1,True,0.0056201850002253195,60568,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,UCS,2,True,0.005630009999549657,60568,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,UCS,3,True,0.005821194000418473,60568,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,UCS,4,True,0.005309885999849939,60568,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,UCS,5,True,0.00522962600007304,60568,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,A*,1,True,0.005465965999974287,61520,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,A*,2,True,0.0055160709998745006,61520,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,A*,3,True,0.005390214000726701,61520,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,A*,4,True,0.005933670000558777,61520,60,7,8.2
+level_08.json,Split Fragile Soft Bridge,A*,5,True,0.005516422000255261,61520,60,7,8.2
+level_09.json,Fragile Alternative Routes,BFS,1,True,0.004346437000094738,41816,69,10,12.5
+level_09.json,Fragile Alternative Routes,BFS,2,True,0.0037046639999971376,42400,69,10,12.5
+level_09.json,Fragile Alternative Routes,BFS,3,True,0.003541792999385507,42400,69,10,12.5
+level_09.json,Fragile Alternative Routes,BFS,4,True,0.005197097999371181,42400,69,10,12.5
+level_09.json,Fragile Alternative Routes,BFS,5,True,0.003606168000260368,42400,69,10,12.5
+level_09.json,Fragile Alternative Routes,DFS,1,True,0.0032911509997575195,43856,63,44,50.0
+level_09.json,Fragile Alternative Routes,DFS,2,True,0.00330679400030931,43856,63,44,50.0
+level_09.json,Fragile Alternative Routes,DFS,3,True,0.0032508920003238018,43856,63,44,50.0
+level_09.json,Fragile Alternative Routes,DFS,4,True,0.003483186000266869,43856,63,44,50.0
+level_09.json,Fragile Alternative Routes,DFS,5,True,0.003579578999961086,43856,63,44,50.0
+level_09.json,Fragile Alternative Routes,UCS,1,True,0.004090937999535527,45104,61,10,10.0
+level_09.json,Fragile Alternative Routes,UCS,2,True,0.004070898000463785,45104,61,10,10.0
+level_09.json,Fragile Alternative Routes,UCS,3,True,0.004126370000449242,45104,61,10,10.0
+level_09.json,Fragile Alternative Routes,UCS,4,True,0.004101564000848157,45104,61,10,10.0
+level_09.json,Fragile Alternative Routes,UCS,5,True,0.004166910000094504,45104,61,10,10.0
+level_09.json,Fragile Alternative Routes,A*,1,True,0.0030926569997973274,35336,36,10,10.0
+level_09.json,Fragile Alternative Routes,A*,2,True,0.00280640199980553,35336,36,10,10.0
+level_09.json,Fragile Alternative Routes,A*,3,True,0.0029667299995708163,35336,36,10,10.0
+level_09.json,Fragile Alternative Routes,A*,4,True,0.0028045989993188414,35336,36,10,10.0
+level_09.json,Fragile Alternative Routes,A*,5,True,0.0028270430002521607,35336,36,10,10.0
+level_10.json,Basic Maze With Loops,BFS,1,True,0.004191727000034007,50648,80,10,10.0
+level_10.json,Basic Maze With Loops,BFS,2,True,0.004193449000013061,50648,80,10,10.0
+level_10.json,Basic Maze With Loops,BFS,3,True,0.004144836999330437,50648,80,10,10.0
+level_10.json,Basic Maze With Loops,BFS,4,True,0.004134982999858039,50648,80,10,10.0
+level_10.json,Basic Maze With Loops,BFS,5,True,0.004277084000023024,50648,80,10,10.0
+level_10.json,Basic Maze With Loops,DFS,1,True,0.0036613299998862203,50384,68,62,62.0
+level_10.json,Basic Maze With Loops,DFS,2,True,0.0035821430001306,50384,68,62,62.0
+level_10.json,Basic Maze With Loops,DFS,3,True,0.003622362999522011,50384,68,62,62.0
+level_10.json,Basic Maze With Loops,DFS,4,True,0.0039014859994495055,50384,68,62,62.0
+level_10.json,Basic Maze With Loops,DFS,5,True,0.003620290000071691,50384,68,62,62.0
+level_10.json,Basic Maze With Loops,UCS,1,True,0.005311406999680912,57216,80,10,10.0
+level_10.json,Basic Maze With Loops,UCS,2,True,0.0059245770007692045,57216,80,10,10.0
+level_10.json,Basic Maze With Loops,UCS,3,True,0.005294362000313413,57216,80,10,10.0
+level_10.json,Basic Maze With Loops,UCS,4,True,0.0053243769998516655,57216,80,10,10.0
+level_10.json,Basic Maze With Loops,UCS,5,True,0.005543141999623913,57216,80,10,10.0
+level_10.json,Basic Maze With Loops,A*,1,True,0.004140420999647176,43400,55,10,10.0
+level_10.json,Basic Maze With Loops,A*,2,True,0.004144276000261016,43400,55,10,10.0
+level_10.json,Basic Maze With Loops,A*,3,True,0.004132119000132661,43400,55,10,10.0
+level_10.json,Basic Maze With Loops,A*,4,True,0.004131708000386425,43400,55,10,10.0
+level_10.json,Basic Maze With Loops,A*,5,True,0.004142924000007042,43400,55,10,10.0

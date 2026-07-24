@@ -1,0 +1,39 @@
+{
+    "name": "Fragile Soft Bridge Alternatives",
+    "group": "Combined Weighted",
+    "grid": [
+        "000000000000",
+        "011111110000",
+        "0FF111110000",
+        "01111111B1G0",
+        "0F11F1110000",
+        "0S11FO110000",
+        "011F11110000",
+        "0111111F0000",
+        "000000000000"
+    ],
+    "bridges": {
+        "b1": {
+            "cells": [
+                [
+                    3,
+                    8
+                ]
+            ],
+            "initial_open": false
+        }
+    },
+    "switches": [
+        {
+            "position": [
+                5,
+                5
+            ],
+            "type": "soft",
+            "behavior": "open",
+            "bridges": [
+                "b1"
+            ]
+        }
+    ]
+}

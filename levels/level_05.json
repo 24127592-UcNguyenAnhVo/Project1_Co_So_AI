@@ -1,0 +1,59 @@
+{
+    "name": "Two Switches Two Bridges",
+    "group": "Multiple Mechanisms",
+    "grid": [
+        "00000000000000000",
+        "01111110111110000",
+        "01111110111110000",
+        "0111111B11111B1G0",
+        "01111110111110000",
+        "0S111O10111O10000",
+        "01111110111110000",
+        "01111110111110000",
+        "00000000000000000"
+    ],
+    "bridges": {
+        "b1": {
+            "cells": [
+                [
+                    3,
+                    7
+                ]
+            ],
+            "initial_open": false
+        },
+        "b2": {
+            "cells": [
+                [
+                    3,
+                    13
+                ]
+            ],
+            "initial_open": false
+        }
+    },
+    "switches": [
+        {
+            "position": [
+                5,
+                5
+            ],
+            "type": "soft",
+            "behavior": "open",
+            "bridges": [
+                "b1"
+            ]
+        },
+        {
+            "position": [
+                5,
+                11
+            ],
+            "type": "soft",
+            "behavior": "open",
+            "bridges": [
+                "b2"
+            ]
+        }
+    ]
+}

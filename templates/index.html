@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloxorz Solver</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+        }
+    }
+    </script>
+</head>
+<body>
+    <div class="app">
+        <div class="top-controls">
+            <label for="level-select">Level:</label>
+            <select id="level-select"></select>
+            <button id="new-game-btn">New Game</button>
+            <button id="restart-btn">Restart</button>
+        </div>
+
+        <div class="main-layout">
+            <div class="game-area">
+                <div id="scene-container" aria-label="3D Bloxorz board"></div>
+
+                <div class="game-bottom-bar">
+                    <span><b>Controls:</b> Arrow keys = Move, Space = Switch cube</span>
+                    <button id="camera-btn">Reset Camera</button>
+                </div>
+
+                <div id="status" class="status-bar">
+                    <span class="status-dot"></span>
+                    <span id="status-text">Loading game...</span>
+                </div>
+            </div>
+
+            <aside class="right-panel">
+                <fieldset>
+                    <legend>Solvers and Search Visualization</legend>
+
+                    <button class="solver-btn" data-algorithm="BFS">Solve BFS</button>
+                    <button class="solver-btn" data-algorithm="DFS">Solve DFS</button>
+                    <button class="solver-btn" data-algorithm="UCS">Solve UCS</button>
+                    <button class="solver-btn" data-algorithm="A*">Solve A*</button>
+                    <button id="replay-btn" disabled>Replay Solution</button>
+
+                    <label class="visualize-row">
+                        <input id="visualize-toggle" type="checkbox" checked>
+                        Visualize search
+                    </label>
+
+                    <div class="simple-progress"><span></span></div>
+
+                    <div class="metrics">
+                        <p>Algorithm: <b id="algorithm-badge">-</b></p>
+                        <p>Search Time: <span id="metric-time">-</span></p>
+                        <p>Peak Memory: <span id="metric-memory">-</span></p>
+                        <p>Expanded Nodes: <span id="metric-expanded">-</span></p>
+                        <p>Frontier Size: <span id="metric-frontier">-</span></p>
+                        <p>Solution Length: <span id="metric-length">-</span></p>
+                        <p>Total Cost: <span id="metric-cost">-</span></p>
+                    </div>
+
+                    <hr>
+
+                    <h3>Solution Path:</h3>
+                    <div id="solution-path" class="solution-path">Run a solver to generate a solution.</div>
+
+                    <h3>Legend:</h3>
+                    <div class="legend">
+                        <div>G: Goal</div>
+                        <div>F: Fragile</div>
+                        <div>O: Soft switch</div>
+                        <div>X: Heavy switch</div>
+                        <div>T: Split switch</div>
+                        <div>B: Bridge</div>
+                    </div>
+                </fieldset>
+            </aside>
+        </div>
+    </div>
+
+    <div id="loading-overlay" class="loading-overlay hidden">
+        <div class="loading-box">
+            <div class="spinner"></div>
+            <span id="loading-text">Searching...</span>
+        </div>
+    </div>
+
+    <script type="module" src="/static/app.js"></script>
+</body>
+</html>
